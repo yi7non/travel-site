@@ -11273,7 +11273,7 @@ var StickyHeader = function () {
     _createClass(StickyHeader, [{
         key: 'addSmoothScrolling',
         value: function addSmoothScrolling() {
-            this.headerLinks.smootScroll();
+            this.headerLinks.smoothScroll();
         }
     }, {
         key: 'createHeaderWaypoint',
